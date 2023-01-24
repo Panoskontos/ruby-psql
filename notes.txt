@@ -1,0 +1,8 @@
+for db view http://localhost/phppgadmin/
+
+psql commands
+sudo -i -u postgres
+psql
+\l
+\du
+\c dbname
