@@ -6,3 +6,5 @@ psql
 \l
 \du
 \c dbname
+
+rake db:setup
